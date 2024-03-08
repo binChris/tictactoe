@@ -8,7 +8,7 @@ The game can be played with a field size of 2 by 2 up to 30 by 30. Default field
 
 ## Run the game
 
-In order to run the game you need to have (Rust)[https://www.rust-lang.org/tools/install].
+In order to run the game you need to have [Rust](https://www.rust-lang.org/tools/install).
 
 ```sh
 # in a directory of your choice
