@@ -1,0 +1,19 @@
+[package]
+name = "tictactoe"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[lib]
+name = "tictactoe"
+path = "src/lib.rs"
+
+
+[dependencies]
+pico-args = "0.5.0"
+regex = "1.10.3"
+
+[features]
+combined-flags = []
+short-space-opt = []
